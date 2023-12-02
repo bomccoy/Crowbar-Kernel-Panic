@@ -21,6 +21,8 @@ We'll try our best to answer the following questions...
 - What does this mean for the future of the Steam Deck?
 
 ## Ember's Adrft Review and Introduction
+[Ember's Adrift](https://www.embersadrift.com/)
+
 Ember's Adrift is a old style MMO made by a small indie team. With all the Kickstarter MMO drama out there I thought this game would make an interesting highlight for the podcast.
 
 ### Technical
