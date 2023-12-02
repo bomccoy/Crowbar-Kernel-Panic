@@ -13,8 +13,8 @@ Join us on Discord. https://discord.gg/Nx6HgaAuZ3
 ## Steam Deck OLED
 [Valve's Steam Deck page.](https://www.steamdeck.com/en/oled)
 
-# What are the specs of the new Steam Deck?
-# How does it compare to the original?
-# How does it compare to it's competitors?
-# Which one should you buy?
-# What does this mean for the future of the Steam Deck?
+### What are the specs of the new Steam Deck?
+### How does it compare to the original?
+### How does it compare to it's competitors?
+### Which one should you buy?
+### What does this mean for the future of the Steam Deck?
