@@ -40,3 +40,4 @@ Ember's Adrift is a old style MMO made by a small indie team. With all the Kicks
 
 
 https://www.youtube.com/watch?v=nUmmsE83mQw
+https://youtu.be/Ts3Noja8quU?si=QOHpmXwBlJ8LymKf
