@@ -13,11 +13,11 @@ This episode is pre-recorded and will be released on our YouTube, on itunes, and
 [Valve's Steam Deck page.](https://www.steamdeck.com/en/oled)
 We'll try our best to answer the following questions...
 
-### What are the specs of the new Steam Deck?
-### How does it compare to the original?
-### How does it compare to it's competitors?
-### Which one should you buy?
-### What does this mean for the future of the Steam Deck?
+- What are the specs of the new Steam Deck?
+- How does it compare to the original?
+- How does it compare to it's competitors?
+- Which one should you buy?
+- What does this mean for the future of the Steam Deck?
 
 ## Ember's Adrft Review and Introduction
 Ember's Adrift is a old style MMO made by a small indie team. With all the Kickstarter MMO drama out there I thought this game would make an interesting highlight for the podcast.
