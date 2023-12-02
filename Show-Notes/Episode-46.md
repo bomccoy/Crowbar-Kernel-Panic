@@ -11,6 +11,7 @@ This episode is pre-recorded and will be released on our YouTube, on itunes, and
 
 ## Steam Deck OLED
 [Valve's Steam Deck page.](https://www.steamdeck.com/en/oled)
+
 We'll try our best to answer the following questions...
 
 - What are the specs of the new Steam Deck?
