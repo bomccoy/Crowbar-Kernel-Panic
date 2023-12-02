@@ -32,4 +32,5 @@ Ember's Adrift is a old style MMO made by a small indie team. With all the Kicks
 - Combat
 - Leveling system
 - The world
+- Embers
 - Dungeons
