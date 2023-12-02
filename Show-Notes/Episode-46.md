@@ -19,18 +19,18 @@ We'll try our best to answer the following questions...
 
 ### How does it compare to the original?
 - OLED screen
-...- Better clarity
-...- 90Hz refresh rate
-...- Vivid colors
-...- Slightly larger
-...- Uses less battery
-...- Same resolution
+...Better clarity
+...90Hz refresh rate
+...Vivid colors
+...Slightly larger
+...Uses less battery
+...Same resolution
 - Improved battery life
-...- OLED vs LCD
-...- less heat
-...- larger battery
+...OLED vs LCD
+...less heat
+...larger battery
 - Improved fan noise
-...- 6 nm APU
+...6 nm APU
 - Wi-Fi 6E
 
 ### How does it compare to it's competitors?
