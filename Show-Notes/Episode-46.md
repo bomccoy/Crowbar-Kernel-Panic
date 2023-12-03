@@ -20,10 +20,10 @@ We'll try our best to answer the following questions...
 - Which one should you buy?
 - What does this mean for the future of the Steam Deck?
 
-## Ember's Adrft Review and Introduction
+## Embers Adrift Review and Introduction
 [Ember's Adrift](https://www.embersadrift.com/)
 
-Ember's Adrift is a old style MMO made by a small indie team. With all the Kickstarter MMO drama out there I thought this game would make an interesting highlight for the podcast.
+Embers Adrift is a old style MMO made by a small indie team. With all the Kickstarter MMO drama out there I thought this game would make an interesting highlight for the podcast.
 
 ### Technical
 - Made in Unity
@@ -38,6 +38,7 @@ Ember's Adrift is a old style MMO made by a small indie team. With all the Kicks
 - Embers
 - Dungeons
 
-
-https://www.youtube.com/watch?v=nUmmsE83mQw
-https://youtu.be/Ts3Noja8quU?si=QOHpmXwBlJ8LymKf
+### Videos on Embers Adrift
+[MarleMMO](https://youtu.be/lPTgqZzSgNQ?si=zbK1HZ1rTnBH2Lrq)
+[The Nathan Napalm](https://www.youtube.com/live/eR5aGgC0DVc?si=kWEs5mKIGow-v55H)
+[Embers Adrift Community Video](https://youtu.be/mQ60-SK432Q?si=pzQqZ2UNCI8sDVM-)
