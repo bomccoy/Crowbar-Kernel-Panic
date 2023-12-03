@@ -39,6 +39,6 @@ Embers Adrift is a old style MMO made by a small indie team. With all the Kickst
 - Dungeons
 
 ### Videos on Embers Adrift
-[MarleMMO](https://youtu.be/lPTgqZzSgNQ?si=zbK1HZ1rTnBH2Lrq)
-[The Nathan Napalm](https://www.youtube.com/live/eR5aGgC0DVc?si=kWEs5mKIGow-v55H)
-[Embers Adrift Community Video](https://youtu.be/mQ60-SK432Q?si=pzQqZ2UNCI8sDVM-)
+- [MarleMMO](https://youtu.be/lPTgqZzSgNQ?si=zbK1HZ1rTnBH2Lrq)
+- [The Nathan Napalm](https://www.youtube.com/live/eR5aGgC0DVc?si=kWEs5mKIGow-v55H)
+- [Embers Adrift Community Video](https://youtu.be/mQ60-SK432Q?si=pzQqZ2UNCI8sDVM-)
